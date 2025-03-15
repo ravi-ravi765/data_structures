@@ -1,0 +1,23 @@
+1. python is interpreted language :-
+example :- let's say you have an high lavel language py file how it get excuted ?
+it takes the instruction and pass it into interpreter and it will convert into computer language and pass it into cpu microproccer and cpu will 
+return the output
+
+** there are two modes **
+1. interactive mode
+2. script mode 
+
+1. interactive mode is only one time you can use.
+2. script mode can save and excute the code  line by line.
+
+** data structures and algorithms **
+
+1. what is algorithm?
+algorithm is step by step to achive somethig
+
+example you want a cup of offee!
+step 1 : take cup of milk
+step 2 : add coffee decoction
+step 3 : add suger
+step 4 : stir all together
+
